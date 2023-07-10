@@ -11,7 +11,7 @@ This project demonstrates the basics of Anchor programs. A counter account is cr
 
 ## Running the program
 -  ` npm i` to install the dependencies
-- `anchor run test` to run the test script on the localnet
+- `anchor test` to run the test script on the localnet
 
 ## Author
 Joshua Iluma
